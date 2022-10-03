@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- LinkedIn: https://linkedin.com/in/CAFxX
+- Twitter: https://twitter.com/CAFxX
+- Gists: https://gist.github.com/CAFxX
+- Website: https://cafxx.strayorange.com
+
 <!--
 **CAFxX/CAFxX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
