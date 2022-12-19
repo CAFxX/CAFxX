@@ -2,6 +2,7 @@
 
 - LinkedIn: https://linkedin.com/in/CAFxX
 - Twitter: https://twitter.com/CAFxX
+- Mastodon: https://mastodon.sdf.org/@cafxx
 - Gists: https://gist.github.com/CAFxX
 - Website: https://cafxx.strayorange.com
 
